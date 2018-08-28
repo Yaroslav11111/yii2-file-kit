@@ -52,7 +52,7 @@ class Storage extends Component
     /**
      * @var int
      */
-    private $dirindex = 1;
+    public $dirindex = 1;
     /**
      * @throws InvalidConfigException
      */
